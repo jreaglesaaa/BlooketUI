@@ -2,7 +2,7 @@
 This is a script which creates a sleek UI, which allows you to use Blooket hacks easily.
 
 ### This project is still in developement therefore all the hacks arent added yet, be patient.
-#### If the hacks break open a [issue](https://github.com/ZasticBradyn/BlooketUI/issues/new/choose)
+#### If the hacks break open an [issue](https://github.com/ZasticBradyn/BlooketUI/issues/new/choose)
 
 ## How to use
 
