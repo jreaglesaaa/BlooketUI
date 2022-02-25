@@ -21,3 +21,5 @@ and then Select the hack you want to use from the hack window!
 
 #### if you have any problems with this repo or you belive your code is being used and you want it removed, contact me [here](https://mail.google.com/mail/?view=cm&fs=1&to=zastixxoncrack@gmail.com&su=Contact%20Me) 
 #### or on discord: zastix#0001
+
+### Blooket UI © copyright 2022 by zastix
