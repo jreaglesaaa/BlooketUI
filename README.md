@@ -27,9 +27,9 @@ https://user-images.githubusercontent.com/73669084/142779206-6cef86be-b2a5-4958-
 https://user-images.githubusercontent.com/58097612/145106447-4fd27355-3a2c-4b0e-8976-3fc51ba8aae8.mp4
 
 ## Credits:
-[zastix](httos://github.com/ZasticBradyn) (me) - javascript code and the hacks.
+[zastix](httos://github.com/ZasticBradyn/) (me) - javascript code and the hacks.
 
-[Dentamon](httos://github.com/Dentamon) - helping zastix and a bit of javascript
+[Dentamon](httos://github.com/Dentamon/) - helping zastix and a bit of javascript
 
 [gliz](https://github.com/glixzzy/) - idea to create a GUI, getName() function and the "How to Use" part in the README.md
 
