@@ -29,6 +29,8 @@ https://user-images.githubusercontent.com/58097612/145106447-4fd27355-3a2c-4b0e-
 ## Credits:
 zastix (me) - javascript code and the hacks.
 
+Dentamon - helping zastix and a bit of javascript
+
 gliz - idea to create a GUI, getName() function and the "How to Use" part in the README.md
 
 
