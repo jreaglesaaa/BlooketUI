@@ -7,7 +7,8 @@ This is a script which creates a sleek UI, which allows you to use Blooket hacks
 ## How to use the Blooket UI
 First, copy the script in the `Script.js` file.
 Go onto Blooket and type in `javascript:` into the adress bar.
-Select the hack you want to use from the hack window!
+press enter
+and then Select the hack you want to use from the hack window!
 
 ## Credits:
 [zastix](https://github.com/ZasticBradyn/) (me) - javascript code and the hacks.
