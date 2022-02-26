@@ -13,6 +13,10 @@ This project took a while to make, so please star it.
 - Fishing Frenzy
 - Global
 
+## Issues
+### Im currently aware of the following issues and im working to fix them:
+- The debugger doesnt seem to be detecting your name correctly
+
 ## How to use the Blooket UI
 First, copy the script in the `Script.js` file.
 Go onto Blooket and type `javascript:` into the address bar.
