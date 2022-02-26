@@ -4,6 +4,10 @@ This is a script which creates a sleek UI, which allows you to use Blooket hacks
 ### This project is still in developement therefore all the hacks arent added yet, be patient.
 #### If the hacks break open an [issue](https://github.com/ZasticBradyn/BlooketUI/issues/new/choose)
 
+## Supported Gamemodes:
+- Tower defense
+- Global
+
 ## How to use the Blooket UI
 First, copy the script in the `Script.js` file.
 Go onto Blooket and type in `javascript:` into the adress bar.
