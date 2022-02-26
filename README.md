@@ -16,15 +16,7 @@ press enter
 and then Select the hack you want to use from the hack window!
 
 ## Credits:
-[zastix](https://github.com/ZasticBradyn/) (me) - javascript code and the hacks.
-
-[Dentamon](https://github.com/Dentamon/) - helping zastix and a bit of javascript
-
-[gliz](https://github.com/glixzzy/) - idea to create a GUI, getName() function and giving me a basic understanding on how to hack blooket.
-
-
-
-#### if you have any problems with this repo or you belive your code is being used and you want it removed, contact me [here](https://mail.google.com/mail/?view=cm&fs=1&to=zastixxoncrack@gmail.com&su=Contact%20Me) 
-#### or on discord: zastix#0001
-
+- [zastix](https://github.com/ZasticBradyn/) (me) - javascript code and the hacks.
+- [Dentamon](https://github.com/Dentamon/) - helping zastix and a bit of javascript
+- [gliz](https://github.com/glixzzy/) - idea to create a GUI, getName() function and giving me a basic understanding on how to hack blooket.
 ### Blooket UI © copyright 2022 by zastix
