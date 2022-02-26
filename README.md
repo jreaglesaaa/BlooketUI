@@ -11,12 +11,12 @@ This is a script which creates a sleek UI, which allows you to use Blooket hacks
 
 ## How to use the Blooket UI
 First, copy the script in the `Script.js` file.
-Go onto Blooket and type in `javascript:` into the adress bar.
+Go onto Blooket and type in `javascript:` into the address bar.
 press enter
 and then Select the hack you want to use from the hack window!
 
 ## Credits:
 - [zastix](https://github.com/ZasticBradyn/) (me) - javascript code and the hacks.
-- [Dentamon](https://github.com/Dentamon/) - helping zastix and a bit of javascript
+- [Dentamon](https://github.com/Dentamon/) - GUI tester and some javascript
 - [gliz](https://github.com/glixzzy/) - idea to create a GUI, getName() function and giving me a basic understanding on how to hack blooket.
 ### Blooket UI © copyright 2022 by zastix
