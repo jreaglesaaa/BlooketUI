@@ -3,8 +3,8 @@ This is a script which creates a sleek UI, which allows you to use Blooket hacks
 
 This project took a while to make, so please star it.
 
-### This project is still in developement therefore all the hacks arent added yet, be patient.
 #### If the hacks break open an [issue](https://github.com/ZasticBradyn/BlooketUI/issues/new/choose)
+### This project is still in developement therefore all the hacks arent added yet, be patient.
 
 ## Supported Gamemodes:
 - Tower defense
