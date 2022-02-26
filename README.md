@@ -7,9 +7,10 @@ This project took a while to make, so please star it.
 ### This project is still in developement therefore all the hacks arent added yet, be patient.
 
 ## Supported Gamemodes:
-- Tower defense
-- Gold quest
+- Tower Defense
+- Gold Quest
 - Racing
+- Fishing Frenzy
 - Global
 
 ## How to use the Blooket UI
