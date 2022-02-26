@@ -1,5 +1,6 @@
 # BlooketCheat UI
 This is a script which creates a sleek UI, which allows you to use Blooket hacks easily.
+
 This project took a while to make, so please star it.
 
 ### This project is still in developement therefore all the hacks arent added yet, be patient.
