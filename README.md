@@ -7,6 +7,7 @@ This is a script which creates a sleek UI, which allows you to use Blooket hacks
 ## Supported Gamemodes:
 - Tower defense
 - Gold quest
+- Racing
 - Global
 
 ## How to use the Blooket UI
