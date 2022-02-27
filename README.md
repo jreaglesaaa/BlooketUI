@@ -29,4 +29,4 @@ and then Select the hack you want to use from the hack window!
 - [zastix](https://github.com/ZasticBradyn/) (me) - javascript code and the hacks.
 - [Dentamon](https://github.com/Dentamon/) - GUI tester and some javascript
 - [gliz](https://github.com/glixzzy/) - idea to create a GUI, getName() function and giving me a basic understanding on how to hack blooket.
-### Blooket UI © copyright 2022 by zastix
+### BlooketUI Copyright © 2022 zastix
