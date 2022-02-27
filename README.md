@@ -10,6 +10,7 @@ This project took a while to make, so please star it.
 - Tower Defense
 - Gold Quest
 - Racing
+- Crazy Kingdom
 - Fishing Frenzy
 - Global
 
