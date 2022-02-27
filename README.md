@@ -21,7 +21,7 @@ This project took a while to make, so please star it.
 
 ## How to use the Blooket UI
 First, copy the script in the `Script.js` file.
-Go onto Blooket and type `javascript:` into the address bar.
+Go onto Blooket and type `javascript:` into the address bar and then paste the script it (CTRL + V).
 press enter
 and then Select the hack you want to use from the hack window!
 
