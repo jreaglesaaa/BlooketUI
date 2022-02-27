@@ -3,7 +3,7 @@ This is a script which creates a sleek UI, which allows you to use Blooket hacks
 
 This project took a while to make, so please star it.
 
-#### If you find any issues or have a suggestion open a issue[here](https://github.com/ZasticBradyn/BlooketUI/issues/new/choose)
+#### If you find any issues or have a suggestion open a issue [here](https://github.com/ZasticBradyn/BlooketUI/issues/new/choose)
 ### This project is still in developement therefore all the hacks arent added yet, be patient.
 
 ## Supported Gamemodes:
