@@ -17,6 +17,7 @@ This project took a while to make, so please star it.
 ## Issues
 ### Im currently aware of the following issues and im working to fix them:
 - The debugger doesnt seem to be detecting your name correctly
+- When you press the X button the console gets spammed with erros (we cant really fix this unless you guys dont want it to re detect the gamemode)
 
 ## How to use the Blooket UI
 First, copy the script in the `Script.js` file.
