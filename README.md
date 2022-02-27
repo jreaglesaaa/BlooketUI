@@ -12,6 +12,7 @@ This project took a while to make, so please star it.
 - Racing
 - Crazy Kingdom
 - Fishing Frenzy
+- Tower of Doom
 - Global
 
 ## Issues
