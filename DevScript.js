@@ -1,1 +1,1 @@
-// hello this file just will have a version of the ui that is in early acces, therefore i would reccomend using the normal Script.js (the devscript isnt coded yet so their is nothing in this file)
+//a version of the blooket ui that only developers can use, (has experimental features and other private stuff)
