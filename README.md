@@ -11,6 +11,7 @@ This project took a while to make, so please star it.
 - Gold Quest
 - Racing
 - Crazy Kingdom
+- Factory
 - Fishing Frenzy
 - Tower of Doom
 - Global
